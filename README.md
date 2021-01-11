@@ -21,18 +21,17 @@ Required Libraries:
 ### How to run
 After installing the above dependencies:
 
-1. Gathering the Data
+1. Gathering Data
 ```bash
 # Requires chrome driver (https://chromedriver.chromium.org)
 cd chain_restaurants/src
 python data_collection.py
 
 cd all_restaurants/src
-python scraper.py
-python data_foursquare.py
+python data_collection.py
 ```
 
-2. Cleaning the Data
+2. Cleaning Data
 ```bash
 # Requires a valid API key (https://developers.google.com/maps/documentation/geocoding/get-api-key)
 cd chain_restaurants/src
@@ -42,7 +41,7 @@ cd all_restaurants/src
 python data_cleaning.py
 ```
 
-3. Viewing the Data
+3. Analyzing Data
 ```bash
 # Analyses are within 'data_analysis.ipynb'
 ```
