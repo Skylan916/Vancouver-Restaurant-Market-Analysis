@@ -1,0 +1,396 @@
+name,address,cuisine,price,rating,review_count
+Blue Water Cafe,1095 Hamilton St,Seafood,$$$$,4.7,1938
+Miku Vancouver,200 Granville St #70,Sushi,$$$,4.6,4460
+MeeT in Gastown,12 Water St,Vegetarian,$$,4.5,2467
+Cafe Medina,780 Richards St,Brunch,$$,4.5,3101
+Lupo Restaurant & Vinoteca,869 Hamilton St,Italian,$$$,4.5,670
+L'Abattoir,217 Carrall St,Pacific Northwest,$$$,4.5,1012
+Minami,1118 Mainland St,Japanese,$$$,4.5,2042
+Bacchus Restaurant & Lounge,845 Hornby St,European,$$$,4.5,476
+Gotham Steakhouse & Cocktail Bar,615 Seymour St,Steak,$$$$,4.6,1495
+Five Sails Restaurant,999 Canada Pl,Fine Dining,$$$$,4.5,312
+Twisted Fork Bistro,213 Carrall St,Brunch,$$,4.4,1077
+Giardino Restaurant,1328 Hornby St,Tuscan,$$$$,4.6,539
+Cioppino's Mediterranean Grill,1133 Hamilton St,Mediterranean,$$$$,4.6,407
+Italian Kitchen,860 Burrard St,Italian,$$$,4.1,1462
+Shizenya,965 Hornby St,Japanese,$$,4.4,767
+Ancora Waterfront Dining and Patio - False Creek,1600 Howe St #2,Seafood,$$$$,4.4,712
+Hawksworth Restaurant,801 W Georgia St,Restaurant,$$$$,4.5,1000
+Brix & Mortar,1138 Homer St Vancouver BC V6B 2X6 & 1137 Hamilton St,Restaurant,$$$,4.4,793
+Nightingale,1017 W Hastings St,Canadian,$$$,4.5,1735
+La Taqueria Pinche Taco,322 W Hastings St,Tacos,$,4.6,889
+Cora Breakfast and Lunch,1368 Robson St,Breakfast,$$,4.3,1489
+Brix & Mortar,1138 Homer St Vancouver BC V6B 2X6 & 1137 Hamilton St,Restaurant,$$$,4.4,793
+Brazilian Roots Truck,698 Seymour St,Restaurant,,4.9,21
+Momo Sushi,6-375 Water St,Sushi,$,4.2,1559
+Chambar Restaurant,568 Beatty St,Restaurant,$$$,4.5,2847
+The Keg Steakhouse + Bar - Dunsmuir,688 Dunsmuir St,Restaurant,$$$,4.3,1877
+The Flying Pig Gastown,102 Water St,Canadian,$$,4.2,2342
+Fanny Bay Oyster Bar & Shellfish Market,762 Cambie St,Oyster Bar,$$,4.5,1431
+JOEY Burrard,820 Burrard St,Restaurant,$$,4.3,1952
+Frankie's Italian Kitchen & Bar,765 Beatty St,Southern Italian,$$,4.2,802
+Joyeaux Café & Restaurant,551 Howe St,Vietnamese,$,4.2,595
+Gyoza Bar,622 W Pender St,Japanese,$$,4.2,1615
+Le Crocodile,909 Burrard St #100,French,$$$$,4.6,905
+Homer St. Cafe and Bar,898 Homer St,Restaurant,$$$,4.4,953
+The Templeton,1087 Granville St,Diner,$,4.5,1517
+Meat & Bread,370 Cambie St,Sandwich,$,4.6,1412
+Hy's Steakhouse & Cocktail Bar,637 Hornby St,Steak,$$$$,4.5,1316
+Chancho Tortilleria,560 Davie St,Mexican,$,4.7,683
+Scoozis Bar & Grill,445 Howe St,Grill,$$,4.3,920
+Rodney's Oyster House,1228 Hamilton St,Oyster Bar,$$,4.4,1396
+Nuba in Gastown,207 W Hastings St,Takeout Restaurant,$$,4.4,2090
+Gringo,27 Blood Alley Square,Mexican,$,4.6,1314
+Boulevard Kitchen & Oyster Bar,845 Burrard St,Restaurant,$$$$,4.4,804
+The Old Spaghetti Factory (Gastown,53 Water St,Italian,$$,4.4,5007
+ARC Restaurant,900 Canada Pl,Restaurant,$$$,4.3,463
+#e food,1308 Burrard St,Sandwich,,4.8,157
+Notch8 Restaurant & Bar,900 W Georgia St,Restaurant,$$$,4.1,511
+Joe Fortes Seafood & Chop House,777 Thurlow St,Seafood,$$$,4.5,4010
+Water St. Café,300 Water St,Canadian,$$,4.2,834
+Brioche Urban Eatery,401 W Cordova St,Italian,$$,4.3,631
+Bali Thai,88 W Pender St,Indonesian,$,4.7,185
+Wildebeest,120 W Hastings St,Pacific Northwest,$$$,4.3,815
+Hungry Guys Kitchen,988 Granville St,Burritos,$,4.6,495
+Di Beppe Restaurant,8 W Cordova St,Italian,$$,4.5,458
+Straight Outta Brooklyn NYC Pizzeria,350 Robson St,Pizza,$,4.5,917
+Autostrada Osteria Downtown,350 W Pender St,Italian,$$$,4.6,346
+PiDGiN Restaurant,350 Carrall St,Asian Fusion,$$$,4.4,629
+Pourhouse Restaurant,162 Water St,Restaurant,$$$,4.4,918
+Botanist,1038 Canada Pl,Pacific Northwest,$$$,4.5,774
+Cactus Club Cafe Coal Harbour,1085 Canada Pl,Restaurant,$$,4.4,3768
+Manoush'eh,620 Davie St,Syrian,$,4.8,545
+Basil Pasta Bar,636 Davie St,Italian,$,4.0,1073
+Bao Bei,163 Keefer St,Chinese,$$$,4.5,764
+Provence Marinaside,1177 Marinaside Crescent,Restaurant,$$$,4.3,1136
+Tacofino Taco Bar,15 W Cordova St,Mexican,$$,4.5,2916
+Pizza Garden,675 Smithe St,Pizza,$,4.4,626
+Heritage Asian Eatery,1108 W Pender St,Restaurant,$$,4.2,626
+Hydra Estiatorio Mediterranean Restaurant,475 Howe St,Restaurant,,4.4,105
+The Flying Pig Yaletown,1168 Hamilton St,Restaurant,$$,4.2,1768
+Top Of Vancouver Revolving Restaurant,555 W Hastings St,Continental restaurant,,4.1,1340
+Pizzeria Farina,915 Main St,Pizza,$$,4.4,453
+MeeT in Yaletown,1165 Mainland St,Restaurant,$$,4.5,1180
+Pholicious,550 W Hastings St,Pho,$,4.6,430
+Kaide Sushi Bar,1375 Richards St,Japanese,$$,4.4,320
+Al Porto Ristorante,321 Water St,Italian,$$,4.1,654
+Pita Wrap Cafe,565 Dunsmuir St,Middle Eastern,$,4.7,205
+The Poke Guy,420 Richards St,Hawaiian,$$,4.6,714
+Glowbal,590 W Georgia St,Fusion restaurant,$$$,4.0,1618
+Earls Kitchen + Bar,905 Hornby St,Restaurant,$$,4.2,1953
+Elisa,1109 Hamilton St,Steak,$$$$,4.6,769
+Vegan Cave Cafe,415 Abbott St,Vegan,$$,4.7,329
+JINYA Ramen Bar,541 Robson St,Restaurant,$$,4.3,2752
+Jules Bistro,216 Abbott St,French,$$,4.3,475
+Cactus Club Cafe Bentall 5,588 Burrard St,Restaurant,$$,4.4,1888
+Nicli Antica Pizzeria,62 E Cordova St,Pizza,$$,4.4,980
+Guu Original Thurlow,838 Thurlow St,Izakaya,$$,4.4,1232
+La Terrazza,1088 Cambie St,Italian,$$$,4.3,415
+Gyu-Kaku Japanese BBQ,888 Nelson St g3,Japanese,$$,4.5,2262
+Fresh Sushi,909 Expo Blvd,Japanese,$,4.4,435
+The Keg Steakhouse + Bar - Yaletown,1011 Mainland St,Restaurant,$$$,4.4,1684
+Chinatown BBQ,130 E Pender St,Chinese,$$,4.6,565
+Coast,1054 Alberni St,Seafood,$$$,4.3,1490
+La Cantina Tacos,722 Nelson St,Mexican,$,4.5,510
+SMAK Healthy Fast Food,545 Granville St,Fast Food,,4.4,324
+Symphonie Restaurant,1140 W Pender St Unit #120,Restaurant,$,4.5,54
+Black Rice Izakaya,782 Cambie St,Izakaya,$$,4.2,648
+The Parlour,1011 Hamilton St,Takeout Restaurant,$$,4.2,1349
+Yamato Sushi,616 Davie St,Japanese,$,4.2,755
+Café One,1000 Burrard St,American,,4.0,166
+Wakwak Burger,511 Granville St,Hamburger,$,4.5,142
+Firecrust Neapolitan Pizzeria,808 Davie St,Pizza,$,4.4,780
+Bistro Sakana,1123 Mainland St,Japanese,$$,4.3,379
+Burgoo,101-1100 Burrard St,Bistro,$$,4.4,624
+Viet Sub Vietnamese Cuisine,520 Robson St,Takeout Restaurant,$,4.4,382
+The Greek By Anatoli,1043 Mainland St,Greek,$$,4.1,865
+The Lobby Lounge and RawBar,1038 Canada Pl,Restaurant,,4.4,171
+Caveman Café,88 W Pender St,Restaurant,$,4.6,1077
+Pacifico Pizzeria & Ristorante,970 Smithe St,Pizza,$$,4.2,757
+Bellaggio Cafe,773 Hornby St,Italian,$$,4.0,574
+Calabash Bistro,428 Carrall St,Caribbean,$$,4.4,738
+Catch 122 Cafe Bistro,122 W Hastings St,Bistro,$$,4.3,1071
+Showcase Restaurant & Bar,1122 W Hastings St,Restaurant,$$$,4.2,237
+Indigo Age Catering,436 Richards St,Vegan,$$,4.3,412
+Cibo Trattoria,900 Seymour St,Italian,$$$,3.8,146
+Nuba in Yaletown,508 Davie St,Lebanese,$$,4.3,912
+Pokerrito,558 Dunsmuir St,Hawaiian,,4.4,901
+Indian Delicacy,1130 W Pender St Unit 105,Indian,$$,4.7,596
+Tasty Indian Bistro | Yaletown,1261 Hamilton St,Indian,$$,4.4,926
+Moltaqa Moroccan Restaurant,51 W Hastings St,Restaurant,,4.4,506
+Thai Away Home on Granville,1081 Granville St,Thai,$,4.3,213
+Paramount Fine Foods,560 Robson St,Middle Eastern,$$,4.3,1869
+Keto Caveman Cafe,605 W Pender St,Restaurant,,4.6,98
+Baghdad Cafe,548 Seymour St,Middle Eastern,$,4.3,590
+Sushi Mugen,903 Davie St,Sushi,,4.6,333
+Cafe Il Nido,780 Thurlow St,Italian,$$,4.1,139
+White Spot Dunsmuir,405 Dunsmuir St,Family-friendly,$$,4.2,1279
+Crave India Restaurant,1019 Granville St,Indian,$,4.2,440
+Wow Thai Food,88 W Pender St #2007,Thai,$,4.4,115
+Rogue Kitchen & Wetbar,601 W Cordova St,Restaurant,$$,4.0,1679
+Kamei Baru,990 Smithe St,Japanese,$$,4.0,355
+LOCAL Public Eatery,3 Alexander St,Restaurant,$$,4.3,1079
+Black+Blue,1032 Alberni St,Steak,$$$$,4.2,2471
+Revel Room Supper Club & Live Music Restaurant,238 Abbott St,Southern,$$,4.4,620
+Le Petit Belge,340 Robson St,Breakfast,$$,4.3,869
+SMAK Healthy Fast Food,840 Howe St,Health Food,,4.4,39
+Chipotle Mexican Grill,818 Howe St,Mexican,$,4.1,2284
+Tacofino Yaletown,1025 Mainland St,Mexican,$$,4.3,1149
+OEB Breakfast Co.,1137 Marinaside Crescent,Breakfast,$$,4.5,856
+Nero waffles,1002 Seymour St,Dessert,,4.5,1624
+per se Social Corner,891 Homer St,Spanish,$$,4.2,1345
+Kobe Japanese Steakhouse,1042 Alberni St,Japanese steakhouse,$$$$,4.3,1078
+Palate Kitchen,848 W Hastings St,Restaurant,,4.3,137
+Robba da Matti,1127 Mainland St,Italian,$$,4.3,532
+La Casita - Gastown,101 W Cordova St,Mexican,$$,4.2,1553
+Mr Greek Donair Town,1173 Granville St,Middle Eastern,$,4.5,288
+Patron Tacos & Cantina,265 Robson St,Mexican,$$,4.3,1452
+Holts Café Vancouver,Holt Renfrew Vancouver 737 Dunsmuir St,Canadian,,4.2,69
+Earls Kitchen + Bar,1095 Mainland St,Restaurant,$$,4.1,1787
+Save On Meats,43 W Hastings St,Diner,$,4.3,783
+The Edge Social Grille & Lounge,1100 Granville St,Grill,$$,4.0,107
+Simply Thai,1211 Hamilton St,Thai,$$,3.9,304
+Tap & Barrel • Convention Centre,76-1055 Canada Pl,Restaurant,$$,4.2,1232
+JJ's Restaurant,250 W Pender St,Restaurant,,4.4,24
+TWB - The Wine Bar,1167 Marinaside Crescent,Grill,$$,4.2,75
+Roxy Burger,910 Granville St,Hamburger,$$,4.2,842
+La Taqueria Pinche Taco Shop,586 Hornby St,Mexican,$$,4.3,1192
+The Pawn Shop YVR,1117 Granville St,Mexican,$,4.4,852
+Sala Thai,888 Burrard St #102,Thai,$$,4.1,1193
+Ask For Luigi Restaurant,305 Alexander St,Italian,$$,4.5,1395
+Haru Korean Kitchen,324 Cambie St,Korean,$$,4.1,404
+Bibiko,530 Hornby St,Korean,,4.5,46
+Steamworks Brewpub,375 Water St,Brewpub,$$,4.3,3690
+Guu with Otokomae,375 Water St #105,Izakaya,$$,4.3,760
+Granville Warehouse,989 Granville St,Restaurant,$,4.1,1350
+Hubbub,859 Hornby St,Sandwich,$,4.3,311
+Peaceful Restaurant,602 Seymour St,Chinese,,3.8,637
+Original Joe's Restaurant & Bar,298 Robson St,Restaurant,$$,3.9,567
+The Moose,724 Nelson St,Restaurant,$,4.3,561
+Sitar Restaurant,8 Powell St,Indian,$$,4.0,214
+Yagger's Downtown Restaurant & Sports Bar,433 W Pender St,Takeout Restaurant,$$,4.2,499
+Guu Garden,888 Nelson St m101,Japanese,$$,4.2,926
+Heirs Pears,605 Nelson St,Gluten Free,,4.2,203
+TAKO - Taqueria Korean,601 Expo Blvd,Korean,$,4.3,625
+Six Acres,203 Carrall St,Restaurant,$$,4.3,662
+Banter Room,1039 Mainland St,Restaurant,$$,4.0,509
+Bistro Verde,799 Robson St,American,$$,3.9,386
+1931 Gallery Bistro,750 Hornby St,Restaurant,,4.2,112
+Mean Poutine,718 Nelson S,Fast Food,$,4.3,507
+Hapa Izakaya Yaletown,1193 Hamilton St,Japanese,$$,4.3,510
+Ramen Gojiro,501 Dunsmuir St,Ramen,$,4.2,2158
+Salt Tasting Room,45 Blood Alley Square,Restaurant,$$$,4.3,316
+Fritz European Fry House,718 Davie St,Fast Food,$,4.3,1009
+SMAK Healthy Fast Food,1139 W Pender St,Gluten Free,$$,4.2,367
+JOS,1190 W Cordova St,Pizza,,4.6,178
+Devil's Elbow Ale and Smoke House,562 Beatty St,Barbecue,$$,4.3,1244
+One Saigon,979 Hornby St,Vietnamese,$,4.0,118
+De Dutch,1055 Canada Pl #60,Brunch,$$,3.9,590
+Ha Long Bay Restaurant,430 W Pender St,Vietnamese,$,4.0,224
+Sai Woo,158 E Pender St,Asian Fusion,$$,4.2,491
+CinCin Ristorante + Bar,1154 Robson St,Italian,$$$,4.4,887
+arturosmexico2go,777 W Cordova St,Mexican,,4.7,54
+Phnom Penh Restaurant,244 E Georgia St,Cambodian,$$,4.5,2981
+Tractor Foods,547 Robson St,Health Food,$$,4.2,386
+Patterson Wonton House,917 Davie St,Chinese,$,3.9,109
+Cactus Club Cafe Yaletown,357 Davie St,Restaurant,$$,4.2,1253
+The Victor,39 Smithe St,Steak,$$$$,4.0,576
+Marutama Ra-men Canada Central Library,270 Robson St,Ramen,$$,4.5,1407
+Four Bistro,538 Seymour St,Restaurant,,4.1,33
+India Gate Restaurant,616 Robson St,Indian,$$,3.9,427
+Nando's Davie & Howe (Downtown,828 Davie St,Chicken,$$,4.1,1248
+Five Guys,635 Robson St,Hamburger,$$,4.3,2784
+Johnny Rockets,755 Nelson St,Hamburger,$,4.1,580
+Edo Japan,CF Pacific Centre 701 W Georgia St,Fast Food,$,4.2,27
+St Lawrence Restaurant,269 Powell St,French,$$$,4.7,617
+國子煎 Me and Crepe Downtown,589 W Pender St,Restaurant,$$,4.1,162
+Prestons Restaurant + Lounge Vancouver,1177 W Pender St,Restaurant,$$,3.9,208
+Kokoro Tokyo Mazesoba - Downtown,551 Seymour St,Ramen,$$,4.3,1113
+Copper Branch,280 Nelson St,Vegan,$$,4.2,52
+Freshii,1291 Howe St,Health Food,,4.3,13
+Congee Noodle Delight,88 W Pender St #1021,Chinese Noodles,$,4.0,433
+Poké Time,840 Howe St,Hawaiian,,4.0,430
+Tractor Everyday Healthy Foods - Marine Building,335 Burrard St,Health Food,$$,4.1,458
+Juke Fried Chicken,182 Keefer St,Restaurant,$,4.2,1712
+Big Bowl Rice,505 Dunsmuir St,Taiwanese,$,4.0,78
+24 Train Express Noodle House,550 Nelson St,Takeout Restaurant,,4.2,373
+Mosaic Grille & Bar,655 Burrard St,Grill,$$,4.1,147
+Chang 'An,1661 Granville St 1st Floor,Chinese,,4.0,320
+Kingston Taphouse & Grille,755 Richards St,Grill,$$,4.0,543
+Tableau Bar Bistro,1181 Melville St,Bistro,$$$,4.4,578
+Numero Uno Pizza,708 Davie St,Pizza,,4.2,108
+Reflections: The Garden Terrace,801 W Georgia St,Restaurant,$$$$,4.2,399
+Tutto Restaurant & Bar,901 Homer St,Italian,,4.5,71
+Yah Yah Ya Ramen Downtown,570 Robson St,Ramen,$,4.2,697
+ZAC-ZAC Japanese Curry House,590 Robson St,Japanese,$,4.2,168
+Freshslice Pizza,549 W Pender St,Pizza,$,4.0,212
+Unwind,1110 Howe St,Restaurant,,3.8,14
+Mangos Lounge,1180 Howe St,Mexican,$$,4.0,414
+Triple O's CBC,700 Hamilton St #10,Hamburger,,4.0,384
+Jako Sushi,656 Davie St,Sushi,,4.1,162
+Chopped Leaf,488 Robson St,Salad,$$,4.1,184
+Kissa Tanto,263 E Pender St,Fusion restaurant,$$$,4.6,761
+Little Saigon Yaletown,1263 Pacific Blvd,Vietnamese,$$,4.0,301
+Tractor Everyday Healthy Foods - Pender,700 W Pender St Unit 102B,Restaurant,,3.9,32
+Copper Chimney Restaurant - Indian Grill & Bar,567 Hornby St,Indian,$$$,3.8,355
+Belgard Kitchen,55 Dunlevy Ave,Canadian,$$,4.5,838
+Delicious Pho,255 Robson St,Vietnamese,$,3.8,734
+Fat Mao Noodles,217 E Georgia St,Noodle Shop,$$,4.5,609
+Cafe il Nido,780 Richards St,Restaurant,,,
+Oceans 999,999 Canada Pl #300,Pacific Northwest,,3.8,83
+The Sandbar Seafood Restaurant,1535 Johnston Street Creekhouse #102,Seafood,$$$,4.4,2680
+Noodlebox,108 W Hastings St,Asian Fusion,$$,3.7,391
+The Keg Steakhouse + Bar - Alberni,1121 Alberni St,Restaurant,$$$,4.4,1496
+Zefferelli's,1136 Robson St 2nd Floor,Italian,$$,4.3,790
+Honjin Yaletown Sushi Restaurant,138 Davie St,Japanese,$$,3.9,174
+Honey Salt,39 Smithe St,Family-friendly,,3.8,465
+JOEY Bentall One,507 Burrard St,Restaurant,$$,4.3,1085
+Browns Crafthouse Seymour St.,580 W Pender St,Grill,$$,4.3,615
+JAPADOG,530 Robson St,Hot Dog,$,4.2,2600
+Uva Wine & Cocktail Bar,900 Seymour St,Wine bar,$$,4.3,274
+Forage,1300 Robson St,Pacific Northwest,$$,4.5,1296
+New Town Bakery & Restaurant,148 E Pender St,Chinese bakery,$,4.2,1543
+Jade Dynasty Restaurant,137 E Pender St,Restaurant,$$,4.1,582
+Earls Kitchen + Bar,1185 Robson St,Restaurant,$$,4.2,1394
+The Mackenzie Room,415 Powell St,Canadian,$$$,4.6,455
+Cactus Club Cafe Robson,1136 Robson St,Restaurant,$$,4.3,814
+Johnnie Fox's Irish Snug,1033 Granville St,Irish pub,$$,4.5,623
+Cold Tea Restaurant,1193 Granville St,Restaurant,,4.5,114
+OPUS Vancouver,,4-star hotel,,4.6,467
+Tap & Barrel • Olympic Village,75 Athletes Way,Restaurant,$$,4.0,2216
+Tractor Digital,666 Burrard St B19,Restaurant,,3.8,15
+Rue 909 Sushi,909 Dunsmuir St,Sushi,$,3.8,254
+Noodlebox,839 Homer St,Asian Fusion,$$,3.7,546
+Freshii,870 W Cordova St,Restaurant,$$,3.8,219
+Yui Japanese Bistro,1185 W Georgia St#102,Japanese,$$,4.4,239
+The Deli Vancouver,1055 W Georgia St Unit 242,Sandwich,,4.5,63
+Davie Dosa Company,1235 Davie St,Indian,$$,4.4,671
+Moxie's Grill & Bar,180 W Georgia St,Grill,$$,3.6,403
+Boston Pizza,869 Hornby St,Pizza,$$,3.7,840
+Cardero's Restaurant,1583 Coal Harbour Quay,Seafood,$$$,4.5,3453
+Sushi Maro Japanese Restaurant,1168 Mainland St #101,Sushi,$$,4.0,480
+Victoria Chinese Restaurant,1055 W Georgia St,Cantonese,$$,3.6,332
+Doner Stop,980 Granville St,Restaurant,,4.0,297
+Mink Chocolates Cafe,863 W Hastings St,Chocolate cafe,,4.4,826
+Black Pearl,530 Hornby St,Restaurant,,5.0,5
+Mumbai Local Restaurant,1148 Davie St,Modern Indian restaurant,,4.2,537
+Mott 32 Vancouver,1161 W Georgia St,Chinese,$$$$,4.0,388
+White Spot Granville & Drake,718 Drake St,Family-friendly,$$,3.6,358
+Floata Seafood Restaurant,180 Keefer St,Seafood,$$,3.6,716
+Ebisu On Robson,827 Bute St,Japanese,$$,4.0,1050
+The Vancouver Fish Company,1517 Anderson St,Seafood,$$,4.1,1339
+Cazba Restaurant,1103 Davie St,Persian,$$,4.0,1325
+Curry Fusion,542 Robson St,Indian,$,3.6,88
+Dockside Restaurant,1253 Johnston St,Restaurant,$$$,4.0,656
+Go Fish,1505 W 1st Ave,Fish & Chips,$$,4.4,1381
+Panago Pizza,1199 W Pender St #101,Pizza Takeout,$$,4.2,67
+The Keg Steakhouse + Bar - Granville Island,1499 Anderson St,Restaurant,$$$,4.2,1403
+The Juice Truck Yaletown,1022 Mainland St,Cafe,,4.5,91
+A&W Canada,603 Dunsmuir St,Hamburger,$,3.7,365
+6 Degrees Eatery,1590 Coal Harbour Quay,Breakfast,$$,4.4,422
+AnnaLena,1809 W 1st Ave,Canadian,$$$,4.7,870
+Sura Korean Royal Cuisine Restaurant Vancouver,1518 Robson St,Korean,$$,4.4,1614
+Apollonia Greek Restaurant,1830 Fir St,Takeout Restaurant,$$,4.5,276
+Thai Express,CF Pacific Centre 701 W Georgia St,Restaurant,$,3.7,113
+Nook,781 Denman St,Restaurant,$$,4.5,346
+The Morrissey,1227 Granville St,Restaurant,$$,4.0,651
+Fairmont Hotel Vancouver,,4-star hotel,,4.5,4029
+Freshii,1185 W Georgia St,Health Food,$$,3.9,118
+Kingyo,871 Denman St,Izakaya,$$,4.6,1614
+Guu with Garlic,1698 Robson St,Izakaya,$$,4.4,1064
+Boston Pizza,808 Beatty St,Pizza,$$,3.7,946
+Malone's Social Lounge & Taphouse,608 W Pender St,Restaurant,$$,4.0,1637
+Silk Dinner Lounge and Restaurant,132 Powell St,Indian,,4.3,288
+Oddfish Restaurant,1889 W 1st Ave,Seafood,,4.6,293
+Lift Bar Grill View - Downtown Vancouver,333 Menchion Mews,American,$$$,4.3,956
+ChongQing on Robson,1260 Robson St,Sichuan,$$,3.9,356
+España Restaurant,1118 Denman St,Spanish,$$,4.4,481
+The Narrow Lounge,1898 Main St,Restaurant,$$,4.4,657
+Kirin Restaurant,1172 Alberni St,Chinese,$$,3.7,819
+Thida Thai Restaurant,1193 Davie St,Thai,$$,4.1,195
+Triple O's,800 Griffiths Way,Fast Food,,3.6,13
+Marutama Ra-men Canada / Westend,780 Bidwell St,Ramen,$,4.6,2107
+McDonald's,275 Robson St #211,Fast Food,$,3.6,999
+Dae Ji,519 Dunsmuir St,Korean,,3.5,278
+Breka Bakery & Café (Davie,855 Davie St,Bakery,$,4.5,2176
+McDonald's,200 Burrard St Unit 5 Waterfront Centre,Fast Food,$,3.5,487
+Dynasty Seafood Restaurant,108-777 W Broadway,Chinese,$$$,4.2,1113
+Tavola,1829 Robson St,Italian,$$,4.5,511
+Heirloom Vegetarian Restaurant,1509 W 12th Ave,Vegetarian,$$,4.4,1222
+Japadog,899 Burrard St,Hot Dog Stand,$,4.3,288
+Au Comptoir,2278 W 4th Ave,French,$$,4.5,621
+Bridges Restaurant,1696 Duranleau St,Seafood,$$,3.8,1588
+Cazba Express,Granville St,Middle Eastern,,3.6,25
+Japadog (trailer,BC-7A & W Pender St,Restaurant,,2.0,2
+Tojo's Restaurant,1133 W Broadway,Japanese,$$$$,4.2,444
+delhi6 Indian bistro,1766 W 7th Ave,Indian,$$,4.5,412
+Bishop's,2183 W 4th Ave,Pacific Northwest,$$$$,4.7,234
+Panago Pizza,1267 Pacific Blvd,Pizza Delivery,$$,4.0,60
+Hook Seabar,1210 Denman St,Seafood,$$$,4.2,642
+Gyu-Kaku Japanese BBQ,950 W Broadway #201,Yakiniku,$$,4.5,1336
+Farmer's Apprentice Restaurant,1535 W 6th Ave,Restaurant,$$,4.3,265
+Afghan Horsemen Restaurant,1833 Anderson St #202,Afghani,$$,4.3,1234
+Mak N Ming,1629 Yew St,Restaurant,$$$,4.5,195
+Peaceful Restaurant,532 W Broadway #110,Chinese,,4.1,607
+Maenam,1938 W 4th Ave,Thai,$$$,4.3,695
+Guu Davie,1239 Davie St,Izakaya,,4.3,103
+Jam Cafe Kitsilano,2153 W 4th Ave,Restaurant,$$,4.7,512
+Marcello Ristorante & Pizzeria,1404 Commercial Dr,Italian,$$,4.2,1424
+Osteria Savio Volpe,615 Kingsway,Italian,$$$,4.6,1565
+H Tasting Lounge,1601 Bayshore Dr.,Restaurant,,4.2,157
+Grapes & Soda,1541 W 6th Ave,Restaurant,$$,4.6,260
+Khaghan Restaurant Downtown,851 Denman St,Persian,,4.2,434
+JAPADOG (Food Truck) at Vancouver BC,,Hot Dog,,3.5,2
+The Liberty Distillery,1494 Old Bridge St,Distillery,,4.6,130
+JAPADOG (Waterfront Station,600 W Cordova St,Hot Dog Stand,,4.6,21
+Bandidas Taqueria,2781 Commercial Dr,Vegetarian,$$,4.4,2271
+Les Faux Bourgeois,663 E 15th Ave,French,$$$,4.6,937
+Blossom Dim Sum & Grill,808 Bute St,Restaurant,,3.7,251
+Dinesty Dumpling House,1719 Robson St,Chinese,$$,4.1,1516
+Italia Bella Bar & Grill,215 Kingsway,Italian,$$,4.5,227
+BREWHALL,97 E 2nd Ave,Restaurant,$$,4.1,548
+BiBo Pizzeria con Cucina,1835 W 4th Ave,Pizza,$$,4.2,383
+Cactus Club Cafe English Bay,1790 Beach Ave,Restaurant,$$,4.4,2298
+Triple O's Bentall Center,1055 Dunsmuir St Unit 407B,Fast Food,,3.7,66
+Bar One,1088 Burrard St North Tower Lobby,Bar,,3.8,23
+Fable Diner,151 Broadway East,Restaurant,$$,4.3,1503
+Burdock & Co,2702 Main St,Small Plates,$$$,3.9,259
+The Acorn Restaurant,3995 Main St,Vegetarian,$$$,4.5,1161
+The Red Wagon,2128 E Hastings St,Restaurant,$$,4.3,1443
+Ugly Dumpling,1590 Commercial Dr,Asian,,4.3,146
+Purebread,159 W Hastings St,Bakery,$$,4.7,1357
+Freshii,561 W Broadway,Health Food,$$,4.0,137
+Havana Vancouver,1212 Commercial Dr,Restaurant,$$,4.2,1610
+The Boathouse Restaurant,1305 Arbutus St,Restaurant,$$$,4.0,1286
+Toshi Sushi,181 E 16th Ave,Sushi,$$,4.6,771
+Sylvia's Restaurant and Lounge Sylvia Hotel,1154 Gilford St,Restaurant,$$,4.3,1241
+Earls Kitchen + Bar,1601 W Broadway,Restaurant,$$,4.0,1389
+Revolver,325 Cambie St,Cafe,$$,4.6,1650
+Burger King,612 W Pender St,Fast Food,$,3.2,528
+Via Tevere Pizzeria,1190 Victoria Dr,Pizza,$$,4.7,1292
+Jamjar Canteen,2290 Commercial Dr,Lebanese,,4.3,935
+Cactus Club Cafe West Broadway,1530 W Broadway,Restaurant,$$,4.3,864
+The Fish Counter,3825 Main St,Seafood,$$,4.6,827
+International Food Fair,530 Hornby St,Food court,,4.2,115
+Gillaneh Grill House,1072 Denman St,Persian,$$,3.9,297
+Thierry Alberni,1059 Alberni St,Dessert shop,$$$,4.4,2528
+The Arbor Restaurant,3941 Main St,Vegetarian,$$,4.3,603
+Zeitoon Restaurant,1795 Pendrell St,Persian,$$,3.8,480
+Robba da Matti,Powell St,Italian,,4.0,2
+El Camino's,3250 Main St,Latin American,$$,4.3,869
+Silk N Spice,3035 W Broadway,Restaurant,,4.6,30
+The Juice Truck 5th Ave,28 W 5th Ave,Restaurant,$$,4.4,191
+MeeT on Main,4288 Main St,Vegetarian,$$,4.5,2196
+Pink Peppercorn Seafood House,1485 Kingsway,Seafood,$$$,4.6,374
+Neptune Chinese Kitchen 鳳鳴粥麵,1136 Alberni St,Chinese,$$,3.2,320
+East is East,4433 Main St,Organic,$$,4.4,1334
+Nammos Estiatorio,3980 Fraser St,Greek,$$,4.3,502
+Anh and Chi,3388 Main St,Vietnamese,$$,4.3,1967
+The Shameful Tiki Room,4362 Main St,Polynesian restaurant,$$,4.5,1225
+Vancouver Foodie Tours,1592 Johnston St,Tour operator,,4.9,84
+BeSIDE Forage,1300 Robson St,Restaurant,,5.0,1
+the Kino,3456 Cambie St,Restaurant,$$,4.3,341
+Seasons in the Park,W 33rd Ave,Restaurant,$$$,4.3,1624
+Yaletown Brewing Company,1111 Mainland St,Brewery,$$,4.0,780
+Teahouse in Stanley Park,7501 Stanley Park Dr,Seafood,$$,4.4,1571
+Triple O's Science World,1455 Quebec St #55,Fast Food,,3.1,75

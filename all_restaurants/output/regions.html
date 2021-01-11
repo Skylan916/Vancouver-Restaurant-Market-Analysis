@@ -1,0 +1,498 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://rawcdn.githack.com/python-visualization/folium/master/folium/templates/leaflet.awesome.rotate.css"/>
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_989eacab4fb1455188489af25e644221 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+            </style>
+        
+</head>
+<body>    
+    
+            <div class="folium-map" id="map_989eacab4fb1455188489af25e644221" ></div>
+        
+</body>
+<script>    
+    
+            var map_989eacab4fb1455188489af25e644221 = L.map(
+                "map_989eacab4fb1455188489af25e644221",
+                {
+                    center: [0, 0],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 1,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_5ac9dbdb7e8b464cb24cf666830e8112 = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_989eacab4fb1455188489af25e644221);
+        
+    
+            var circle_2fc4e29566da46a38c85335f7e067493 = L.circle(
+                [49.2468049108, -123.16166923799999],
+                {"bubblingMouseEvents": true, "color": "#f54542", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#f54542", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 100, "stroke": true, "weight": 3}
+            ).addTo(map_989eacab4fb1455188489af25e644221);
+        
+    
+        var popup_49fda5c9c8bc40ca86fb9d91daddd8bc = L.popup({"maxWidth": "100%"});
+
+        
+            var html_2dd7a45a01f94b4b95dfde067bdb8879 = $(`<div id="html_2dd7a45a01f94b4b95dfde067bdb8879" style="width: 100.0%; height: 100.0%;">Arbutus-Ridge, Vancouver, BC</div>`)[0];
+            popup_49fda5c9c8bc40ca86fb9d91daddd8bc.setContent(html_2dd7a45a01f94b4b95dfde067bdb8879);
+        
+
+        circle_2fc4e29566da46a38c85335f7e067493.bindPopup(popup_49fda5c9c8bc40ca86fb9d91daddd8bc)
+        ;
+
+        
+    
+    
+            var circle_90c7cd940d1f4559b75d131435be93c5 = L.circle(
+                [49.280747071099995, -123.11656700799999],
+                {"bubblingMouseEvents": true, "color": "#f54542", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#f54542", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 100, "stroke": true, "weight": 3}
+            ).addTo(map_989eacab4fb1455188489af25e644221);
+        
+    
+        var popup_4ad8496b44a0486eb39d19817cb23b52 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_80ae6cf60c514e5d8984a67137fd615a = $(`<div id="html_80ae6cf60c514e5d8984a67137fd615a" style="width: 100.0%; height: 100.0%;">Downtown, Vancouver, BC</div>`)[0];
+            popup_4ad8496b44a0486eb39d19817cb23b52.setContent(html_80ae6cf60c514e5d8984a67137fd615a);
+        
+
+        circle_90c7cd940d1f4559b75d131435be93c5.bindPopup(popup_4ad8496b44a0486eb39d19817cb23b52)
+        ;
+
+        
+    
+    
+            var circle_34c8a710082644efa59808e749e5cf18 = L.circle(
+                [49.2645404871, -123.131048865],
+                {"bubblingMouseEvents": true, "color": "#f54542", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#f54542", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 100, "stroke": true, "weight": 3}
+            ).addTo(map_989eacab4fb1455188489af25e644221);
+        
+    
+        var popup_cfd31af451d841c9b5b661066d6d2901 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_2c0d7cb3806e44cb9e9131135ac98429 = $(`<div id="html_2c0d7cb3806e44cb9e9131135ac98429" style="width: 100.0%; height: 100.0%;">Fairview, Vancouver, BC</div>`)[0];
+            popup_cfd31af451d841c9b5b661066d6d2901.setContent(html_2c0d7cb3806e44cb9e9131135ac98429);
+        
+
+        circle_34c8a710082644efa59808e749e5cf18.bindPopup(popup_cfd31af451d841c9b5b661066d6d2901)
+        ;
+
+        
+    
+    
+            var circle_d685b96b21cd42e58825e3b19ee24e66 = L.circle(
+                [49.27643961020001, -123.066728221],
+                {"bubblingMouseEvents": true, "color": "#f54542", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#f54542", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 100, "stroke": true, "weight": 3}
+            ).addTo(map_989eacab4fb1455188489af25e644221);
+        
+    
+        var popup_0e3d7db76e6f4dd5b6b6ffcddb2df894 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_657510a9149e439ba6ff5fbcd321f8ad = $(`<div id="html_657510a9149e439ba6ff5fbcd321f8ad" style="width: 100.0%; height: 100.0%;">Grandview-Woodland, Vancouver, BC</div>`)[0];
+            popup_0e3d7db76e6f4dd5b6b6ffcddb2df894.setContent(html_657510a9149e439ba6ff5fbcd321f8ad);
+        
+
+        circle_d685b96b21cd42e58825e3b19ee24e66.bindPopup(popup_0e3d7db76e6f4dd5b6b6ffcddb2df894)
+        ;
+
+        
+    
+    
+            var circle_d117898d08ff4240a3c452e697059230 = L.circle(
+                [49.277934053, -123.040269923],
+                {"bubblingMouseEvents": true, "color": "#f54542", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#f54542", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 100, "stroke": true, "weight": 3}
+            ).addTo(map_989eacab4fb1455188489af25e644221);
+        
+    
+        var popup_6662e283507d4b4daf1d0eebab207e86 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_c96e0391babd4890b1102385598b6575 = $(`<div id="html_c96e0391babd4890b1102385598b6575" style="width: 100.0%; height: 100.0%;">Hastings-Sunrise, Vancouver, BC</div>`)[0];
+            popup_6662e283507d4b4daf1d0eebab207e86.setContent(html_c96e0391babd4890b1102385598b6575);
+        
+
+        circle_d117898d08ff4240a3c452e697059230.bindPopup(popup_6662e283507d4b4daf1d0eebab207e86)
+        ;
+
+        
+    
+    
+            var circle_096701d5a91b46e792928536fe563db4 = L.circle(
+                [49.2102074666, -123.12838166],
+                {"bubblingMouseEvents": true, "color": "#f54542", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#f54542", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 100, "stroke": true, "weight": 3}
+            ).addTo(map_989eacab4fb1455188489af25e644221);
+        
+    
+        var popup_361e7f0498aa4b6ebdedd59af0b9b690 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_e6989ec941964043b12bce78838822b6 = $(`<div id="html_e6989ec941964043b12bce78838822b6" style="width: 100.0%; height: 100.0%;">Marpole, Vancouver, BC</div>`)[0];
+            popup_361e7f0498aa4b6ebdedd59af0b9b690.setContent(html_e6989ec941964043b12bce78838822b6);
+        
+
+        circle_096701d5a91b46e792928536fe563db4.bindPopup(popup_361e7f0498aa4b6ebdedd59af0b9b690)
+        ;
+
+        
+    
+    
+            var circle_306a6415a5ff4d2a887ca684fbb1d79b = L.circle(
+                [49.2447664796, -123.103146806],
+                {"bubblingMouseEvents": true, "color": "#f54542", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#f54542", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 100, "stroke": true, "weight": 3}
+            ).addTo(map_989eacab4fb1455188489af25e644221);
+        
+    
+        var popup_8033edfc75a4408bad9001f4231ec309 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_97936059b3d84ae3af620b520a999a08 = $(`<div id="html_97936059b3d84ae3af620b520a999a08" style="width: 100.0%; height: 100.0%;">Riley Park, Vancouver, BC</div>`)[0];
+            popup_8033edfc75a4408bad9001f4231ec309.setContent(html_97936059b3d84ae3af620b520a999a08);
+        
+
+        circle_306a6415a5ff4d2a887ca684fbb1d79b.bindPopup(popup_8033edfc75a4408bad9001f4231ec309)
+        ;
+
+        
+    
+    
+            var circle_f780045b1c4d4da7a7ded04a66071482 = L.circle(
+                [49.2456809771, -123.139760167],
+                {"bubblingMouseEvents": true, "color": "#f54542", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#f54542", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 100, "stroke": true, "weight": 3}
+            ).addTo(map_989eacab4fb1455188489af25e644221);
+        
+    
+        var popup_c2c1f021049f49d1be4ce74645d820e8 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_e341eb540fef40e3bbf69da40588ac3d = $(`<div id="html_e341eb540fef40e3bbf69da40588ac3d" style="width: 100.0%; height: 100.0%;">Shaughnessy, Vancouver, BC</div>`)[0];
+            popup_c2c1f021049f49d1be4ce74645d820e8.setContent(html_e341eb540fef40e3bbf69da40588ac3d);
+        
+
+        circle_f780045b1c4d4da7a7ded04a66071482.bindPopup(popup_c2c1f021049f49d1be4ce74645d820e8)
+        ;
+
+        
+    
+    
+            var circle_9938a1398b2a4a03ba5b58a2d69e5d84 = L.circle(
+                [49.278219578599995, -123.08823528100001],
+                {"bubblingMouseEvents": true, "color": "#f54542", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#f54542", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 100, "stroke": true, "weight": 3}
+            ).addTo(map_989eacab4fb1455188489af25e644221);
+        
+    
+        var popup_ab5a8d9ab23642fbb285d9b21b9f4dc0 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_58a61f19df884e27b8ec16412bc865e1 = $(`<div id="html_58a61f19df884e27b8ec16412bc865e1" style="width: 100.0%; height: 100.0%;">Strathcona, Vancouver, BC</div>`)[0];
+            popup_ab5a8d9ab23642fbb285d9b21b9f4dc0.setContent(html_58a61f19df884e27b8ec16412bc865e1);
+        
+
+        circle_9938a1398b2a4a03ba5b58a2d69e5d84.bindPopup(popup_ab5a8d9ab23642fbb285d9b21b9f4dc0)
+        ;
+
+        
+    
+    
+            var circle_feb8d824db05487199e0379b439a23a1 = L.circle(
+                [49.285011189399995, -123.135437653],
+                {"bubblingMouseEvents": true, "color": "#f54542", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#f54542", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 100, "stroke": true, "weight": 3}
+            ).addTo(map_989eacab4fb1455188489af25e644221);
+        
+    
+        var popup_c33c2dbd51e642609a574802660c19d9 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_00d87e14d0d34e7aac64bf380b79d413 = $(`<div id="html_00d87e14d0d34e7aac64bf380b79d413" style="width: 100.0%; height: 100.0%;">West End, Vancouver, BC</div>`)[0];
+            popup_c33c2dbd51e642609a574802660c19d9.setContent(html_00d87e14d0d34e7aac64bf380b79d413);
+        
+
+        circle_feb8d824db05487199e0379b439a23a1.bindPopup(popup_c33c2dbd51e642609a574802660c19d9)
+        ;
+
+        
+    
+    
+            var circle_f950dd123a4a465ab56aa2e55a047a2d = L.circle(
+                [49.246686447200005, -123.07288459200001],
+                {"bubblingMouseEvents": true, "color": "#f54542", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#f54542", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 100, "stroke": true, "weight": 3}
+            ).addTo(map_989eacab4fb1455188489af25e644221);
+        
+    
+        var popup_94661fbc04954c5ca0ddf94d4a0350bd = L.popup({"maxWidth": "100%"});
+
+        
+            var html_3451cbdd5346418fb13ef5a026ae8b58 = $(`<div id="html_3451cbdd5346418fb13ef5a026ae8b58" style="width: 100.0%; height: 100.0%;">Kensington-Cedar Cottage, Vancouver, BC</div>`)[0];
+            popup_94661fbc04954c5ca0ddf94d4a0350bd.setContent(html_3451cbdd5346418fb13ef5a026ae8b58);
+        
+
+        circle_f950dd123a4a465ab56aa2e55a047a2d.bindPopup(popup_94661fbc04954c5ca0ddf94d4a0350bd)
+        ;
+
+        
+    
+    
+            var circle_0d30f474b4eb4f1eafe0d2ed59cbbd30 = L.circle(
+                [49.263065250699995, -123.09851312],
+                {"bubblingMouseEvents": true, "color": "#f54542", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#f54542", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 100, "stroke": true, "weight": 3}
+            ).addTo(map_989eacab4fb1455188489af25e644221);
+        
+    
+        var popup_dc86272b38da48b68a27deafde8f421a = L.popup({"maxWidth": "100%"});
+
+        
+            var html_d62b7833215140ac8dc7177fd916b9cb = $(`<div id="html_d62b7833215140ac8dc7177fd916b9cb" style="width: 100.0%; height: 100.0%;">Mount Pleasant, Vancouver, BC</div>`)[0];
+            popup_dc86272b38da48b68a27deafde8f421a.setContent(html_d62b7833215140ac8dc7177fd916b9cb);
+        
+
+        circle_0d30f474b4eb4f1eafe0d2ed59cbbd30.bindPopup(popup_dc86272b38da48b68a27deafde8f421a)
+        ;
+
+        
+    
+    
+            var circle_61aea273f6c9458cba23f609c24f7d72 = L.circle(
+                [49.226403197299994, -123.123024604],
+                {"bubblingMouseEvents": true, "color": "#f54542", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#f54542", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 100, "stroke": true, "weight": 3}
+            ).addTo(map_989eacab4fb1455188489af25e644221);
+        
+    
+        var popup_c4babc0260374c799d0b0a9b01cacd93 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_7b7e3412440046e6b0b788b095a3f83e = $(`<div id="html_7b7e3412440046e6b0b788b095a3f83e" style="width: 100.0%; height: 100.0%;">Oakridge, Vancouver, BC</div>`)[0];
+            popup_c4babc0260374c799d0b0a9b01cacd93.setContent(html_7b7e3412440046e6b0b788b095a3f83e);
+        
+
+        circle_61aea273f6c9458cba23f609c24f7d72.bindPopup(popup_c4babc0260374c799d0b0a9b01cacd93)
+        ;
+
+        
+    
+    
+            var circle_59f73b8a56bc4f8b92632e1685827544 = L.circle(
+                [49.247342734600004, -123.040166465],
+                {"bubblingMouseEvents": true, "color": "#f54542", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#f54542", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 100, "stroke": true, "weight": 3}
+            ).addTo(map_989eacab4fb1455188489af25e644221);
+        
+    
+        var popup_1c885f5d92d940e1a0faeb480fab9dfd = L.popup({"maxWidth": "100%"});
+
+        
+            var html_8d01901d14a9417090a3f5b67802f51d = $(`<div id="html_8d01901d14a9417090a3f5b67802f51d" style="width: 100.0%; height: 100.0%;">Renfrew-Collingwood, Vancouver, BC</div>`)[0];
+            popup_1c885f5d92d940e1a0faeb480fab9dfd.setContent(html_8d01901d14a9417090a3f5b67802f51d);
+        
+
+        circle_59f73b8a56bc4f8b92632e1685827544.bindPopup(popup_1c885f5d92d940e1a0faeb480fab9dfd)
+        ;
+
+        
+    
+    
+            var circle_f79a8e7da68947e69433dddcf9cee49f = L.circle(
+                [49.218756151499996, -123.092038001],
+                {"bubblingMouseEvents": true, "color": "#f54542", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#f54542", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 100, "stroke": true, "weight": 3}
+            ).addTo(map_989eacab4fb1455188489af25e644221);
+        
+    
+        var popup_5313d0a8f5b946eb8a22cee3678aa8d5 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_0d6610d013bd417783581b6f7af60493 = $(`<div id="html_0d6610d013bd417783581b6f7af60493" style="width: 100.0%; height: 100.0%;">Sunset, Vancouver, BC</div>`)[0];
+            popup_5313d0a8f5b946eb8a22cee3678aa8d5.setContent(html_0d6610d013bd417783581b6f7af60493);
+        
+
+        circle_f79a8e7da68947e69433dddcf9cee49f.bindPopup(popup_5313d0a8f5b946eb8a22cee3678aa8d5)
+        ;
+
+        
+    
+    
+            var circle_68ffbb8e7a2d4e709a372ab06524f684 = L.circle(
+                [49.2684012111, -123.203467483],
+                {"bubblingMouseEvents": true, "color": "#f54542", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#f54542", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 100, "stroke": true, "weight": 3}
+            ).addTo(map_989eacab4fb1455188489af25e644221);
+        
+    
+        var popup_20e5a506a35f4b4fbfd220f0a2fdaab2 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_e80d4b6523fb4a909f9762cc12ba999a = $(`<div id="html_e80d4b6523fb4a909f9762cc12ba999a" style="width: 100.0%; height: 100.0%;">West Point Grey, Vancouver, BC</div>`)[0];
+            popup_20e5a506a35f4b4fbfd220f0a2fdaab2.setContent(html_e80d4b6523fb4a909f9762cc12ba999a);
+        
+
+        circle_68ffbb8e7a2d4e709a372ab06524f684.bindPopup(popup_20e5a506a35f4b4fbfd220f0a2fdaab2)
+        ;
+
+        
+    
+    
+            var circle_3c805daf829e4c76909e6ce192a3ca34 = L.circle(
+                [49.2379619063, -123.189546803],
+                {"bubblingMouseEvents": true, "color": "#f54542", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#f54542", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 100, "stroke": true, "weight": 3}
+            ).addTo(map_989eacab4fb1455188489af25e644221);
+        
+    
+        var popup_65ac136b41054543a9f0118a037930ab = L.popup({"maxWidth": "100%"});
+
+        
+            var html_fc232bbd2bda42a79fc0677147556bad = $(`<div id="html_fc232bbd2bda42a79fc0677147556bad" style="width: 100.0%; height: 100.0%;">Dunbar-Southlands, Vancouver, BC</div>`)[0];
+            popup_65ac136b41054543a9f0118a037930ab.setContent(html_fc232bbd2bda42a79fc0677147556bad);
+        
+
+        circle_3c805daf829e4c76909e6ce192a3ca34.bindPopup(popup_65ac136b41054543a9f0118a037930ab)
+        ;
+
+        
+    
+    
+            var circle_2aeea4fc788f4ab0ab3297ee59153e2e = L.circle(
+                [49.223655485500004, -123.15957618200001],
+                {"bubblingMouseEvents": true, "color": "#f54542", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#f54542", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 100, "stroke": true, "weight": 3}
+            ).addTo(map_989eacab4fb1455188489af25e644221);
+        
+    
+        var popup_7bc5df559d014de3992034e6e6201abc = L.popup({"maxWidth": "100%"});
+
+        
+            var html_8d812ce02c834e5d893cd2f15a006da7 = $(`<div id="html_8d812ce02c834e5d893cd2f15a006da7" style="width: 100.0%; height: 100.0%;">Kerrisdale, Vancouver, BC</div>`)[0];
+            popup_7bc5df559d014de3992034e6e6201abc.setContent(html_8d812ce02c834e5d893cd2f15a006da7);
+        
+
+        circle_2aeea4fc788f4ab0ab3297ee59153e2e.bindPopup(popup_7bc5df559d014de3992034e6e6201abc)
+        ;
+
+        
+    
+    
+            var circle_da66347781c2451aa205e05919dda414 = L.circle(
+                [49.2170216717, -123.037647029],
+                {"bubblingMouseEvents": true, "color": "#f54542", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#f54542", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 100, "stroke": true, "weight": 3}
+            ).addTo(map_989eacab4fb1455188489af25e644221);
+        
+    
+        var popup_90ca65506f31424f81f1ca093d4cdcab = L.popup({"maxWidth": "100%"});
+
+        
+            var html_cdea70b2c6f94d398db5cd7122c802c8 = $(`<div id="html_cdea70b2c6f94d398db5cd7122c802c8" style="width: 100.0%; height: 100.0%;">Killarney, Vancouver, BC</div>`)[0];
+            popup_90ca65506f31424f81f1ca093d4cdcab.setContent(html_cdea70b2c6f94d398db5cd7122c802c8);
+        
+
+        circle_da66347781c2451aa205e05919dda414.bindPopup(popup_90ca65506f31424f81f1ca093d4cdcab)
+        ;
+
+        
+    
+    
+            var circle_75c646f9464d4b39aa9e9075cdc9b59e = L.circle(
+                [49.267539849399995, -123.16329474],
+                {"bubblingMouseEvents": true, "color": "#f54542", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#f54542", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 100, "stroke": true, "weight": 3}
+            ).addTo(map_989eacab4fb1455188489af25e644221);
+        
+    
+        var popup_08d34d90357f43ee9576aedc2c449812 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_51244015616f4c839fa95035e4260435 = $(`<div id="html_51244015616f4c839fa95035e4260435" style="width: 100.0%; height: 100.0%;">Kitsilano, Vancouver, BC</div>`)[0];
+            popup_08d34d90357f43ee9576aedc2c449812.setContent(html_51244015616f4c839fa95035e4260435);
+        
+
+        circle_75c646f9464d4b39aa9e9075cdc9b59e.bindPopup(popup_08d34d90357f43ee9576aedc2c449812)
+        ;
+
+        
+    
+    
+            var circle_26163589b1b64848ad19c431b136540b = L.circle(
+                [49.2455564633, -123.121800916],
+                {"bubblingMouseEvents": true, "color": "#f54542", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#f54542", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 100, "stroke": true, "weight": 3}
+            ).addTo(map_989eacab4fb1455188489af25e644221);
+        
+    
+        var popup_aaa5945a3c9048ccbb522443bc538f2b = L.popup({"maxWidth": "100%"});
+
+        
+            var html_27f4f98ddcf4436b9a789982b60fb4a8 = $(`<div id="html_27f4f98ddcf4436b9a789982b60fb4a8" style="width: 100.0%; height: 100.0%;">South Cambie, Vancouver, BC</div>`)[0];
+            popup_aaa5945a3c9048ccbb522443bc538f2b.setContent(html_27f4f98ddcf4436b9a789982b60fb4a8);
+        
+
+        circle_26163589b1b64848ad19c431b136540b.bindPopup(popup_aaa5945a3c9048ccbb522443bc538f2b)
+        ;
+
+        
+    
+    
+            var circle_1b1ecac1bb5342c8bf31443b87659c5e = L.circle(
+                [49.220011941, -123.06413471799999],
+                {"bubblingMouseEvents": true, "color": "#f54542", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#f54542", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 100, "stroke": true, "weight": 3}
+            ).addTo(map_989eacab4fb1455188489af25e644221);
+        
+    
+        var popup_9ccae11c2ef94e6bade39f2d75a796e3 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_d531aadb0bcd44e28108380af90b5a74 = $(`<div id="html_d531aadb0bcd44e28108380af90b5a74" style="width: 100.0%; height: 100.0%;">Victoria-Fraserview, Vancouver, BC</div>`)[0];
+            popup_9ccae11c2ef94e6bade39f2d75a796e3.setContent(html_d531aadb0bcd44e28108380af90b5a74);
+        
+
+        circle_1b1ecac1bb5342c8bf31443b87659c5e.bindPopup(popup_9ccae11c2ef94e6bade39f2d75a796e3)
+        ;
+
+        
+    
+    
+                var lat_lng_popup_07081a5088534eefa92b4c5b53042366 = L.popup();
+                function latLngPop(e) {
+                    lat_lng_popup_07081a5088534eefa92b4c5b53042366
+                        .setLatLng(e.latlng)
+                        .setContent("Latitude: " + e.latlng.lat.toFixed(4) +
+                                    "<br>Longitude: " + e.latlng.lng.toFixed(4))
+                        .openOn(map_989eacab4fb1455188489af25e644221);
+                    }
+                map_989eacab4fb1455188489af25e644221.on('click', latLngPop);
+            
+    
+            map_989eacab4fb1455188489af25e644221.fitBounds(
+                [[49.2102074666, -123.203467483], [49.285011189399995, -123.037647029]],
+                {}
+            );
+        
+</script>

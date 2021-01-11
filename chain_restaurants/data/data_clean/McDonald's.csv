@@ -1,0 +1,27 @@
+name,rating,review_count,lat,lng,region
+McDonald's,3.4,1573,49.2808895,-123.0305558,Hastings-Sunrise
+McDonald's,3.4,1766,49.26592249999999,-123.0243296,Hastings-Sunrise
+McDonald's,3.4,1984,49.25866509999999,-123.0436159,Renfrew-Collingwood
+McDonald's,3.4,1766,49.26592249999999,-123.0243296,Hastings-Sunrise
+McDonald's,3.3,716,49.2617391,-123.0695017,Kensington-Cedar Cottage
+McDonald's,3.2,1907,49.2452244,-123.0641417,Kensington-Cedar Cottage
+McDonald's,3.3,758,49.2331558,-123.0658793,Kensington-Cedar Cottage
+McDonald's,3.5,737,49.2183554,-123.0774499,Sunset
+McDonald's,3.4,2946,49.2719008,-123.1006967,Mount Pleasant
+McDonald's,3.5,554,49.245242,-123.1014882,Riley Park
+McDonald's,3.6,1594,49.2118921,-123.1091875,Marpole
+McDonald's,3.5,379,49.2635339,-123.1163501,Fairview
+McDonald's,3.1,731,49.2808066,-123.1072457,Downtown
+McDonald's,3.5,486,49.2876106,-123.1150993,Downtown
+McDonald's,3.5,812,49.2853911,-123.1215501,Downtown
+McDonald's,3.4,1288,49.2806291,-123.1215045,Downtown
+McDonald's,3.6,991,49.2788171,-123.1154121,Downtown
+McDonald's,3.4,554,49.26342529999999,-123.1379808,Fairview
+McDonald's,3.7,884,49.20607,-123.1255132,Marpole
+McDonald's,3.3,486,49.2906461,-123.1338744,West End
+McDonald's,3.4,542,49.2852383,-123.1389968,West End
+McDonald's,3.2,1453,49.2349143,-123.1548416,Shaughnessy
+McDonald's,3.4,329,49.2683903,-123.1594164,Kitsilano
+McDonald's,3.5,713,49.2640213,-123.1781943,Kitsilano
+Black & McDonald,3.9,8,49.27286059999999,-123.0774977,Strathcona
+McDonald's,3.5,1131,49.2702657,-123.0999131,Strathcona

@@ -1,0 +1,266 @@
+name,address,cuisine,price,rating,review_count
+Dock Lunch,152 E 11th Ave,Restaurant,$$,4.5,141
+Les Faux Bourgeois,663 E 15th Ave,French,$$$,4.6,937
+Mangia Cucina & Bar,2211 Manitoba St,Italian,,4.7,357
+Italia Bella Bar & Grill,215 Kingsway,Italian,$$,4.5,227
+The Wallflower,2420 Main St,Diner,,4.2,1072
+Burgoo,3096 Main St,Bistro,$$,4.4,1241
+Fable Diner,151 Broadway East,Restaurant,$$,4.3,1503
+Argo Cafe,1836 Ontario St,Diner,$,4.5,423
+Maizal RMF,2815 Main St,Mexican,$,4.5,374
+Fassil Restaurant,736 E Broadway,Ethiopian,$,4.6,335
+Osteria Savio Volpe,615 Kingsway,Italian,$$$,4.6,1565
+The Whip Restaurant & Gallery,209 6th Avenue East,Takeout Restaurant,$$,4.1,702
+Sal y Limón,701 Kingsway #5,Mexican,$,4.5,3741
+Los Cuervos Taqueria & Cantina,603 Kingsway,Mexican,$$,4.4,600
+Sprezzatura Restaurant,265 Kingsway,Italian,$$,4.4,214
+Papa's Gourmet Pizza,3030 Main St,Pizza,$,4.7,247
+Nuba Cafe and Catering in Mount Pleasant,146 E 3rd Ave,Restaurant,,4.3,623
+Toshi Sushi,181 E 16th Ave,Sushi,$$,4.6,771
+Shiro Japanese,3096 Cambie St,Japanese,$$,4.5,582
+Burdock & Co,2702 Main St,Small Plates,$$$,3.9,259
+Las Tortas Mexican Gourmet Sandwiches,3353 Cambie St,Restaurant,,4.5,352
+Bao Down OV,115 W 2nd Ave,Restaurant,$$,3.9,563
+Marulilu Café,451 W Broadway,Japanese,$,4.5,595
+Como Taperia,201 E 7th Ave,Spanish,$$,4.4,415
+Pizzeria Barbarella,654 E Broadway,Restaurant,$$,4.4,476
+Tocador,2610 Main St,Restaurant,$$,4.3,253
+La Taqueria Pinche Taco Shop,2450 Yukon St,Restaurant,$,4.4,1556
+Budgies Burritos,44 Kingsway,Vegetarian,$,4.4,928
+Lucy's Eastside Diner,2708 Main St,Diner,$,4.2,1638
+Caffe Barney,2526 Main St,Restaurant,$$,4.3,281
+Seiza Japanese Cuisine,3068 Main St,Sushi,,4.4,277
+Ignite Pizzeria,2588 Main St,Pizza,,4.4,580
+Martini's Whole Wheat Pizza,151 Broadway W,Pizza,$$,4.4,659
+CafeTica,2408 Alberta St,Restaurant,$,4.7,100
+Superbaba (Vancouver,2419 Main St,Restaurant,,4.7,172
+Rumpus Room,2301 Main St,Restaurant,$$,4.4,303
+Carp Sushi + Bowl,2516 Prince Edward St,Sushi,$,4.6,417
+Emelle's Westside Kitchen,177 W 7th Ave,Restaurant,$,4.6,48
+Sushiyama,371 E Broadway,Sushi,$,4.0,748
+Nirvana Restaurant,2313 Main St,Indian,$$,4.2,293
+The Cascade Room,2616 Main St,Restaurant,$$,4.2,620
+Zocalo Modern Cantina,646 Kingsway,Pan-Latin restaurant,,4.7,111
+The Basic,3048 Main St,Diner,,4.3,376
+Hime Sushi,315 E Broadway,Japanese,$,4.2,323
+Side Hustle Sandwiches,151 E 8th Ave,Restaurant,$$,4.1,384
+CRAFT Beer Market Vancouver,85 W 1st Ave,Restaurant,$$,4.4,5863
+Pizza 604,2444 Main St,Pizza,,4.4,90
+The Narrow Lounge,1898 Main St,Restaurant,$$,4.4,657
+Field & Social,18 E 5th Ave,Restaurant,,4.6,21
+AJ's Brooklyn Pizza Joint,325 E Broadway,Pizza,$$,4.6,603
+Uma Sushi,450 W 8th Ave,Authentic Japanese,,4.5,243
+Peaceful Restaurant,43 E 5th Ave,Chinese,,4.0,548
+The Firewood Café,3004 Cambie St,Pizza,$$,4.5,196
+Freshii,270 E Broadway,Restaurant,$$,4.3,34
+Tacofino Ocho,8 E 5th Ave,Mexican,$$,4.1,681
+Nook,195 W 2nd Ave,Italian,$$,4.3,341
+Chutney Villa South Indian Cuisine,147 E Broadway,Indian,$$,4.0,459
+The Lion's Den Cafe,651 E 15th Ave,Caribbean,$,4.6,192
+Vij's,3106 Cambie St,Restaurant,$$$,4.4,1309
+Klasik Inasal and Noodle Express,650 E Broadway,Filipino,$,4.6,66
+Pho Goodness (Main Street,3079 Main St,Vietnamese,$,4.2,747
+None at this Time,1 East 8th Ave,Restaurant,,4.6,18
+Kaori Izakaya,3043 Main St,Japanese,$,4.2,167
+The Flying Pig Olympic Village,127 W 2nd Ave,Canadian,$$,4.0,786
+Peaceful Restaurant,532 W Broadway #110,Chinese,,4.1,607
+Poke Bar,280 E Broadway,Hawaiian,,4.2,67
+Vera's Burger Shack,2922 Main St,Hamburger,$$,4.3,387
+Sushi California,388 W Broadway,Sushi,$,4.2,1739
+R&B Ale & Pizza House,1-54 E 4th Ave,Brewery,,4.4,869
+Jitlada Thai Restaurant,118 W 6th Ave,Thai,$$,4.1,140
+Tractor Everyday Healthy Foods - Olympic Village,1751 Quebec St,Restaurant,$$,4.2,322
+The Black Lodge,317 E Broadway,Restaurant,$$,4.0,430
+El Camino's,3250 Main St,Latin American,$$,4.3,869
+Heritage Asian Eatery,382 W Broadway,Asian,,4.1,188
+Straight Outta Brooklyn NYC Pizzeria,701 Kingsway,Pizza,$,4.3,193
+Thai Son Restaurant,373 E Broadway,Vietnamese,$,4.0,417
+Westcoast Poké,463 W 8th Ave,Seafood,$$,4.1,331
+Kwong Chow Congee & Noodle House,3163 Main St,Cantonese,$,3.9,536
+Vij's Restaurant,3106 Cambie St,Indian,$$,4.2,587
+Manna Sushi,6 E 2nd Ave,Japanese,$,4.1,529
+보고 한식 일식 - Bogo Korean Kitchen,53 W Broadway,Restaurant,,4.1,61
+Pizza Garden,3033 Main St,Pizza,$,4.2,333
+Congee Noodle House,141 E Broadway,Chinese,$,3.8,1555
+Hyde Restaurant & Lounge,2960 Main St,Grill,$,4.2,173
+Pho Quynh Express,89 W 2nd Ave,Takeout Restaurant,$,4.1,229
+Fatburger West Broadway,255 W Broadway,Restaurant,$$,4.1,584
+Colony Bar Main Street,2904 Main St,Restaurant,$$,4.1,889
+Red Burrito,2328 Cambie St,Mexican,,4.0,36
+Marutama Gaiden,2858 Main St,Ramen,$$,4.1,439
+Pizza Pizza,311 E Broadway,Pizza,,4.1,96
+Tap & Barrel • Olympic Village,75 Athletes Way,Restaurant,$$,4.0,2216
+Bao Down OV,115 W 2nd Ave,Restaurant,$$,3.9,563
+Ophelia,165 W 2nd Ave,Mexican,,4.4,106
+Freshslice Pizza,183 E Broadway,Pizza,$,4.0,247
+Sing Sing,2718 Main St,Beer hall,$$,4.2,614
+Nabebugyo Hot Pot Cuisine,3190 Cambie St,Restaurant,,4.5,451
+Sushi Kaido,189 E Broadway,Restaurant,,4.2,46
+Rocanini Coffee Roasters,127 W 5th Ave,Takeout Restaurant,,4.6,47
+Broadway Indochine Kitchen + Bar,1 E Broadway,Restaurant,$$,3.7,204
+Planetary Burger,3088 Main St,Restaurant,,4.0,237
+Chipotle Mexican Grill,532 Broadway W Unit 100,Mexican,$,4.1,581
+Published on Main,3593 Main St,Restaurant,,4.6,156
+Dairy Queen Grill & Chill,2888 Main St,Fast Food,$,4.1,262
+The Five Point Restaurant & Pub,3124 Main St,Pub,$$,4.0,600
+Menya Raizo,401 W Broadway,Ramen,,4.2,655
+Anh and Chi,3388 Main St,Vietnamese,$$,4.3,1967
+Nha Trang Vietnamese Beef Noodle Soup,720 E Broadway,Vietnamese,$,4.1,114
+A&W Canada,467 W Broadway,Hamburger,$,3.9,459
+BREWHALL,97 E 2nd Ave,Restaurant,$$,4.1,548
+La Patria Cafe,370 E Broadway,Restaurant,,,
+Freshii,561 W Broadway,Health Food,$$,4.0,137
+Donair Spot,806 W Broadway,Kebab shop,$,3.9,209
+Flavours,102 E 4th Ave,Restaurant,,,
+Blue Water Cafe,1095 Hamilton St,Seafood,$$$$,4.7,1938
+Nikkyu Japanese Restaurant,3302 Main St,Sushi,$,3.9,318
+Cactus Club Cafe Broadway + Ash,575 W Broadway,Restaurant,$$,4.2,1391
+Chef Claire's,3610 Main St,Restaurant,,4.8,19
+The Acorn Restaurant,3995 Main St,Vegetarian,$$$,4.5,1161
+De Dutch Pannekoek House,410 W 2nd Ave,Breakfast,$$,4.0,243
+The Fish Counter,3825 Main St,Seafood,$$,4.6,827
+Hot Delivery Chinese Food,3002 Cambie St,Chinese Delivery,,3.8,127
+MILA,185 Keefer St,Restaurant,,4.9,88
+Pizzeria Farina,915 Main St,Pizza,$$,4.4,453
+Kishimoto Japanese Restaurant,2054 Commercial Dr,Japanese,$$,4.4,752
+Uncle Fatih's Pizza - CAMBIE,477 W 8th Ave,Pizza,$,4.2,349
+Viet House,3420 Cambie St,Vietnamese,$,4.3,325
+The General Public Sushi Lodge,3289 Main St,Sushi,$$,4.3,987
+the Kino,3456 Cambie St,Restaurant,$$,4.3,341
+Chambar Restaurant,568 Beatty St,Restaurant,$$$,4.5,2847
+A&W Canada,1150 Station St,Hamburger,$,3.9,155
+Wendy's,480 W 8th Ave,Fast Food,$,3.8,1683
+Whisk Matcha Cafe,39 Kingsway,Cafe,,4.7,62
+Chickpea Restaurant,4298 Main St,Vegan,$$,4.4,1705
+Phnom Penh Restaurant,244 E Georgia St,Cambodian,$$,4.5,2981
+Pür & Simple,299 E 10th Ave,Breakfast,$$,4.3,50
+MeeT on Main,4288 Main St,Vegetarian,$$,4.5,2196
+Trilussa Pizza & Pane,4363 Main St,Pizza,$$,4.4,280
+Cafe Medina,780 Richards St,Brunch,$$,4.5,3101
+Ba-Le Deli & Bakery,701 Kingsway,Bakery,$,4.4,384
+Rodney's Oyster House,1228 Hamilton St,Oyster Bar,$$,4.4,1396
+The Arbor Restaurant,3941 Main St,Vegetarian,$$,4.3,603
+Locus Restaurant & Lounge,4121 Main St,Restaurant,$$,4.4,475
+Hon's Wonton House - Olympic Village,25 E 2nd Ave,Chinese,,3.8,209
+plant me. Vegetarian Restaurant Vancouver,255 E Broadway,Restaurant,,5.0,7
+33 Brewing Experiment,25 W 8th Ave,Brewpub,,4.5,36
+Do Chay,1392 Kingsway,Vietnamese,$$,4.5,429
+Nammos Estiatorio,3980 Fraser St,Greek,$$,4.3,502
+Marcello Ristorante & Pizzeria,1404 Commercial Dr,Italian,$$,4.2,1424
+Twisted Fork Bistro,213 Carrall St,Brunch,$$,4.4,1077
+Sushi Loku,592 E Broadway,Sushi,,5.0,1
+Pink Peppercorn Seafood House,1485 Kingsway,Seafood,$$$,4.6,374
+Saola,2419 Main St,Asian,,,
+Po Kong,1334 Kingsway Ave.,Vegetarian,$$,4.4,694
+Hawkers Delight Deli,4127 Main St,Malaysian,$,4.4,715
+The Flying Pig Yaletown,1168 Hamilton St,Restaurant,$$,4.2,1768
+Sushi Main,3710 Main St,Sushi,,4.1,130
+PiDGiN Restaurant,350 Carrall St,Asian Fusion,$$$,4.4,629
+Ask For Luigi Restaurant,305 Alexander St,Italian,$$,4.5,1395
+Joon's Kitchen,3093 Oak St,Korean,,4.5,196
+Zakkushi Dining on Main,4075 Main St,Izakaya,$$,4.2,630
+Nuba in Gastown,207 W Hastings St,Takeout Restaurant,$$,4.4,2090
+Glory Juice Co.,78 E 2nd Ave,Cafe,,3.9,125
+Tasty Indian Bistro | Yaletown,1261 Hamilton St,Indian,$$,4.4,926
+Grand View Szechuan Restaurant,4181 Fraser St,Sichuan,$$,4.3,90
+Sun Sui Wah,3888 Main St,Chinese,$$,4.1,1610
+Big Rock Vancouver Brewery & Eatery,310 W 4th Ave,Brewery,,3.9,295
+A&W Canada,777 W Broadway,Hamburger,$,3.9,351
+Nam Nam Noodle,4191 Main St,Chinese Noodles,$,4.3,195
+La Grotta Del Formaggio,1791 Commercial Dr,Deli,$$,4.6,559
+Sushi Ville,2068 Commercial Dr,Sushi,$,4.1,649
+Sawasdee Thai Restaurant,4250 Main St,Thai,$$,4.4,735
+Potluck Hawker Eatery,3424 Cambie St,Restaurant,,4.2,168
+Food Hall by ZUBU,159 W 4th Ave,Ramen,,3.5,22
+Pho Extreme Xe Lua,457 W Broadway,Pho,$,3.6,495
+A&W Canada,1399 Main St #110,Hamburger,$,3.7,322
+Mali Thai Restaurant,2710 Main St,Thai,,3.2,196
+Nuba in Yaletown,508 Davie St,Lebanese,$$,4.3,912
+Dallas Pizza,613 E Broadway,Restaurant,,3.7,166
+Matchstick Fraser Street,639 E 15th Ave,Cafe,$$,4.3,758
+Sushi TonTon,4018 Cambie St,Sushi,$$,4.2,263
+Domino's Pizza,585 Broadway E,Pizza Delivery,$,3.7,23
+CHI HOUSE,4063 Main St,Sichuan,,4.1,113
+Seasons in the Park,W 33rd Ave,Restaurant,$$$,4.3,1624
+Campagnolo Upstairs,1020 Main St second floor,Bar,,4.2,546
+12 Kings Pub,395 Kingsway,Restaurant,$,4.0,608
+KFC,795 E Broadway,Fast Food,$,3.4,433
+The Keg Steakhouse + Bar - Yaletown,1011 Mainland St,Restaurant,$$$,4.4,1684
+Earls Kitchen + Bar,1095 Mainland St,Restaurant,$$,4.1,1787
+Cactus Club Cafe Yaletown,357 Davie St,Restaurant,$$,4.2,1253
+Billy Button Dessert Bar,144 E Broadway,Dessert,,4.4,105
+McDonald's,1527 Main St,Fast Food,$,3.4,2996
+Chipotle Mexican Grill,818 Howe St,Mexican,$,4.1,2284
+Freshii,1541 W Broadway,Restaurant,$$,4.4,88
+Dachi Vancouver,2297 E Hastings St,Restaurant,$$,4.7,205
+The Red Wagon,2128 E Hastings St,Restaurant,$$,4.3,1443
+Cactus Club Cafe West Broadway,1530 W Broadway,Restaurant,$$,4.3,864
+Five Guys,635 Robson St,Hamburger,$$,4.3,2784
+Triple O's CBC,700 Hamilton St #10,Hamburger,,4.0,384
+The Federal Store Luncheonette & Grocer,2601 Quebec St,Cafe,$$,4.7,263
+Ignite Pizzeria Express,508 W Cordova St,Pizza Takeout,,4.8,135
+Uncle Abe's,3032 Main St,Bar,$,4.4,221
+Kranky Cafe,216 E 4th Ave,Coffee shop,$,4.5,125
+Freshii,1291 Howe St,Health Food,,4.3,13
+Afghan Horsemen Restaurant,1833 Anderson St #202,Afghani,$$,4.3,1234
+Trafiq,4216 Main St,Bakery,$$,4.5,801
+Glowbal,590 W Georgia St,Fusion restaurant,$$$,4.0,1618
+Tim Hortons,306 Terminal Ave,Restaurant,$,3.7,969
+Field & Social,415 Dunsmuir St,Salad,,4.2,210
+Peaceful Restaurant,602 Seymour St,Chinese,,3.8,637
+Original Joe's Restaurant & Bar,298 Robson St,Restaurant,$$,3.9,567
+Joe Fortes Seafood & Chop House,777 Thurlow St,Seafood,$$$,4.5,4010
+Thida Thai Restaurant,1193 Davie St,Thai,$$,4.1,195
+IHOP,950 W Broadway Suite 200,Restaurant,$$,3.7,941
+Western Lake Chinese Seafood Restaurant,4989 Victoria Dr,Dim Sum,$$,4.3,1997
+The Gluten Free Epicurean,633 E 15th Ave,Bakery,$$,4.6,301
+A&W Canada,555 12th Ave W Unit 25,Hamburger,$,3.4,57
+Cactus Club Cafe English Bay,1790 Beach Ave,Restaurant,$$,4.4,2298
+Subway,615 E Broadway #8,Sandwich,$,3.6,109
+Triple O's,800 Griffiths Way,Fast Food,,3.6,13
+Long's Noodle House,4853 Main St,Shanghainese,$,4.2,593
+Aperture Coffee Bar,W Broadway,Coffee shop,$,4.5,486
+Toko Foods Ltd,223 W 7th Ave,Food manufacturer,$,4.0,68
+Coffee Roastery Modus,112 W Broadway,Coffee shop,,4.8,253
+Fife Bakery,64 E 3rd Ave,Bakery,$$,4.5,217
+Zefferelli's,1136 Robson St 2nd Floor,Italian,$$,4.3,790
+Cartems Donuts,2190 Main St,Donuts,$$,4.4,1056
+Our Town Cafe,255 E Broadway,Cafe,$,4.3,366
+Guu with Garlic,1698 Robson St,Izakaya,$$,4.4,1064
+Boston Pizza,808 Beatty St,Pizza,$$,3.7,946
+Tavola,1829 Robson St,Italian,$$,4.5,511
+6 Degrees Eatery,1590 Coal Harbour Quay,Breakfast,$$,4.4,422
+Emelle's Catering,177 W 7th Ave,Caterer,,4.7,76
+Chickpea food truck,2201 W 4th Ave,Takeout Restaurant,,4.4,249
+Lucky's Doughnuts,2902 Main St,Donuts,$$,4.4,293
+Earnest Ice Cream,1829 Quebec St,Ice Cream,$$,4.6,2689
+Cactus Club Cafe Coal Harbour,1085 Canada Pl,Restaurant,$$,4.4,3768
+Burgoo Bistro Lonsdale,3 Lonsdale Ave,Bistro,$$,4.4,610
+Subway,2827 Main St Unit 3,Sandwich,$,3.2,49
+Peaceful Restaurant,2394 W 4th Ave,Chinese,$$,3.9,469
+Panago Pizza,2928 Main St,Pizza Delivery,$$,3.2,49
+Tim Hortons,818 West 6th St,Restaurant,$,3.6,183
+Kafka's Coffee and Tea,2525 Main St,Cafe,$$,4.3,587
+Elysian Coffee - 7th & Ontario,2301 Ontario St,Coffee shop,$$,4.5,402
+A&W Canada,2033 E Hastings St,Hamburger,$,3.7,708
+Triple O's Science World,1455 Quebec St #55,Fast Food,,3.1,75
+Parallel 49 Brewing Company,1950 Triumph St,Brewery,,4.5,797
+Solly's Bagelry,368 W 7th Ave,Bagel shop,$,3.2,332
+Nuba in Kitsilano,3116 W Broadway,Takeout Restaurant,$$,4.2,727
+Starbucks,2980 Main St,Coffee store,$$,4.2,818
+La Petite Cuillère,55 Kingsway,Tea house,$$,4.2,241
+Terra Breads,1605 Manitoba St,Bakery,$$,4.3,853
+Vancouver Foodie Tours,1592 Johnston St,Tour operator,,4.9,84
+COBS Bread Bakery,2924 Main St,Bakery,$$,4.6,162
+Don Urquhart,4387 Main St,Real Estate Agency,,5.0,11
+JJ Bean Coffee Roasters,3010 Main St,Cafe,$$,4.3,725
+BETA5 Chocolates,409 Industrial Ave,Chocolate shop,,4.6,901
+Thierry Mount Pleasant,265 E 10th Ave,Dessert shop,,4.1,14
+Aling Mary's Filipino Store & Bakery - Vancouver,2656 Main St,Grocery store,,4.2,128
+33 Acres Brewing Company,15 W 8th Ave,Brewery,,4.4,803
+Fortune Terrace JOY CAFE,525 SW Marine Dr,Restaurant,,4.0,35
+Bean Around The World,2528 Main St,Coffee store,$,4.3,200
+Gene Coffee Bar,2404 Main St,Coffee shop,$,3.8,221
+Tim Hortons,195 Terminal Ave,Restaurant,$,3.1,51
+Fairmont Hotel Vancouver,,4-star hotel,,4.5,4029
+Subway,433 W Broadway,Sandwich,$,2.8,96

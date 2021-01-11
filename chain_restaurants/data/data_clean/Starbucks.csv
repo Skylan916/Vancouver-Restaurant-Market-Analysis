@@ -1,0 +1,77 @@
+name,rating,review_count,lat,lng,region
+Starbucks,4.1,316.0,49.2326922,-123.0241837,Renfrew-Collingwood
+Starbucks,4.2,343.0,49.2586046,-123.0306721,Renfrew-Collingwood
+Starbucks,3.8,66.0,49.2321398,-123.0332299,Killarney
+Starbucks,3.9,613.0,49.2813458,-123.0470199,Hastings-Sunrise
+Starbucks,4.1,369.0,49.21957039999999,-123.0410703,Killarney
+Starbucks,4.3,194.0,49.20634219999999,-123.0306051,Killarney
+Starbucks,4.3,315.0,49.2598109,-123.0439424,Renfrew-Collingwood
+Starbucks,4.1,302.0,49.2251112,-123.0534421,Victoria-Fraserview
+Starbucks,3.9,392.0,49.2619462,-123.0701175,Kensington-Cedar Cottage
+Starbucks,3.8,259.0,49.2618255,-123.0684661,Kensington-Cedar Cottage
+Starbucks,4.0,380.0,49.2336094,-123.0657348,Kensington-Cedar Cottage
+Starbucks,3.9,243.0,49.2827183,-123.0856676,Strathcona
+Starbucks,4.0,221.0,49.2810692,-123.0739561,Grandview-Woodland
+Starbucks,4.0,266.0,49.2710701,-123.0877089,Strathcona
+Starbucks,3.5,13.0,49.291002,-123.135255,West End
+Starbucks,4.2,254.0,49.24412150000001,-123.0898514,Kensington-Cedar Cottage
+Starbucks,4.0,451.0,49.2856832,-123.0459151,Hastings-Sunrise
+Starbucks,4.1,397.0,49.2250996,-123.0904003,Sunset
+Starbucks,4.1,214.0,49.2627376,-123.0997805,Mount Pleasant
+Starbucks,4.2,814.0,49.258598,-123.1008378,Mount Pleasant
+Starbucks,4.0,159.0,49.2730027,-123.0994833,Strathcona
+Starbucks,4.1,262.0,49.2105057,-123.1073653,Marpole
+Starbucks,3.7,36.0,49.2846966,-123.1119349,Downtown
+Starbucks,3.9,287.0,49.2845468,-123.1085117,Downtown
+Starbucks,5.0,1.0,49.2845313,-123.1219259,West End
+Starbucks,3.7,284.0,49.27997,-123.1072445,Downtown
+Starbucks,3.5,72.0,49.2859448,-123.1122271,Downtown
+Starbucks,4.1,349.0,49.2352183,-123.1156595,Riley Park
+Starbucks,4.1,276.0,49.27930010000001,-123.1169541,Downtown
+Starbucks,4.1,299.0,49.2540819,-123.1148846,Riley Park
+Starbucks,3.9,248.0,49.2630492,-123.1196065,Fairview
+Starbucks,4.3,241.0,49.2859123,-123.1154132,Downtown
+Starbucks,3.8,86.0,49.2609498,-123.1171617,Fairview
+Starbucks,4.2,150.0,49.2883284,-123.1176487,Downtown
+Starbucks,3.9,139.0,49.2849343,-123.1179274,Downtown
+Starbucks,4.1,205.0,49.2825685,-123.1223991,Downtown
+Starbucks,4.1,189.0,49.2671799,-123.1131349,Mount Pleasant
+Starbucks,4.0,173.0,49.2735305,-123.119932,Downtown
+Starbucks,4.0,79.0,49.2786164,-123.121477,Downtown
+Starbucks Vancouver Support Centre,4.7,24.0,49.2604041,-123.0419719,Renfrew-Collingwood
+Starbucks,4.6,5.0,49.2084589,-123.1309027,Marpole
+Starbucks,3.7,50.0,49.2798197,-123.1179367,Downtown
+Starbucks,4.1,456.0,49.28461069999999,-123.1246178,West End
+Starbucks,4.0,164.0,49.2748249,-123.1221591,Downtown
+Starbucks,3.8,212.0,49.2878315,-123.1238165,Downtown
+Starbucks,4.1,320.0,49.2094201,-123.116565,Marpole
+Starbucks,3.8,151.0,49.2801681,-123.1271342,Downtown
+Starbucks,4.0,233.0,49.2767332,-123.1252699,Downtown
+Starbucks,4.2,168.0,49.2798197,-123.1179367,Downtown
+Starbucks,4.0,151.0,49.2642378,-123.114506,Mount Pleasant
+Starbucks,4.2,231.0,49.2803907,-123.1309201,West End
+Starbucks,4.3,136.0,49.2770141,-123.1296825,Downtown
+Starbucks,4.0,103.0,49.2443368,-123.1242233,South Cambie
+Starbucks,4.1,383.0,49.29167349999999,-123.1354479,West End
+Starbucks,4.0,53.0,49.28538940000001,-123.1218372,Downtown
+Starbucks,4.0,213.0,49.2872511,-123.1285596,West End
+Starbucks,4.1,416.0,49.2694315,-123.1385811,Fairview
+Starbucks,4.5,30.0,49.2864943,-123.1214363,Downtown
+Starbucks,4.0,152.0,49.2631745,-123.1388815,Fairview
+Starbucks,4.1,637.0,49.28730239999999,-123.1411053,West End
+Starbucks,4.0,14.0,49.291002,-123.135255,West End
+Starbucks,3.7,76.0,49.2878274,-123.1134453,Downtown
+Starbucks,4.1,126.0,49.2447767,-123.1540465,Arbutus-Ridge
+Starbucks,3.1,11.0,49.2792904,-123.1169454,Downtown
+Starbucks,4.2,271.0,49.2130177,-123.1400089,Marpole
+Starbucks,4.0,95.0,49.2094569,-123.1410799,Marpole
+Starbucks,3.9,24.0,49.2861378,-123.1242371,West End
+Starbucks,4.2,234.0,49.27285579999999,-123.1476009,Kitsilano
+Starbucks,3.9,140.0,49.2608109,-123.1257249,Fairview
+Starbucks,4.4,10.0,49.2840402,-123.123534,West End
+Starbucks Coffee,4.2,45.0,49.2643427,-123.1737366,Kitsilano
+Starbucks,4.0,191.0,49.23426329999999,-123.1603441,Kerrisdale
+Starbucks,4.2,157.0,49.2643427,-123.1737366,Kitsilano
+Starbucks,3.3,7.0,49.2686111,-123.1586111,Kitsilano
+Starbucks,4.2,153.0,49.24648440000001,-123.1855024,Dunbar-Southlands
+Starbucks Coffee,5.0,1.0,49.2879764,-123.1407458,West End
